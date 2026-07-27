@@ -1,0 +1,29 @@
+# UTF-8
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+        StringTable(
+          u'080404B0',
+          [StringStruct(u'CompanyName', u'个人开发者'),
+          StringStruct(u'FileDescription', u'MIDI 上传修复工具'),
+          StringStruct(u'FileVersion', u'1.0.0'),
+          StringStruct(u'InternalName', u'MidiFixer'),
+          StringStruct(u'LegalCopyright', u'© 2026 史上第一个杨某人. All rights reserved.'),
+          StringStruct(u'ProductName', u'MIDI 上传修复工具'),
+          StringStruct(u'ProductVersion', u'1.0.0')])
+      ]
+    ),
+    VarFileInfo([VarStruct(u'Translation', [0x804, 1200])])
+  ]
+)
